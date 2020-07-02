@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> Cat Images Example</string>
+     <string name="lbl_no_error_connection">No Internet Connection</string>
+    <string name="cat_image_description">Cat Image Description</string>
+    <string name="splash_logo_description">splash logo</string>
+
+</resources>
